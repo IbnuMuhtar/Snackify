@@ -1,0 +1,30 @@
+body {
+    background-color: #4D869C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+form {
+    width: 100%;
+}
+
+.container {
+    background-color: #CDE8E5;
+    max-width: 400px;
+    width: 100%;
+}
+
+.btn-primary {
+    background-color: #7AB2B2;
+    border: none;
+    margin-top: 10px;
+}
+
+.btn-secondary {
+    background-color: #7AB2B2;
+    border: none;
+    margin-top: 10px;
+}
