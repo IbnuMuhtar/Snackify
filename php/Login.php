@@ -54,7 +54,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
     <div class="container bg p-4 rounded-4 mt-5">
         <form action="Login.php" class="form-group" method="post">
             <h2 class="text-center mb-4">Login</h2>
-            <div class="mb-3">
+            <div class="mb-4">
                 <label for="username" class="form-label fw-semibold">Username</label>
                 <input type="text" class="form-control" id="username" name="username" placeholder="username" required>
             </div>
