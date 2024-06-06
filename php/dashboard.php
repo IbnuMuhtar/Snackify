@@ -16,7 +16,7 @@
         <table class="table">
             <thead class="table-primary">
                 <tr>
-                    <th>ID</th>
+                    <th>ID1</th>
                     <th>Nama Produk</th>
                     <th>Harga</th>
                     <th>Stok</th>
